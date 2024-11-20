@@ -1,4 +1,4 @@
-package com.webview.myapplication;
+package com.wallplaces.wallpapers;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
